@@ -1,0 +1,14 @@
+<svg>
+  <rect id="background"/>
+  <rect id="block1"/>
+  <rect id="block2"/>
+  <rect id="block3"/>
+  <rect id="block4"/>
+
+  <image href="hart.png" class='icon hart'/>
+  <image href="ritme.png" class='icon ritme'/>
+  <image href="vindaed.png" class='icon vindaed'/>
+  <image href="gids.png" class='icon gids'/>
+
+  <text id="myLabel" />
+</svg>

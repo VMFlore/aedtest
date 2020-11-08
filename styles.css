@@ -1,0 +1,88 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+#background {
+  width: 100%;
+  height: 100%;
+  fill: black;
+}
+
+#myLabel {
+  font-size: 26;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 12%;
+  fill: white;
+}
+
+#myButton #text {
+  text-buffer: "BUTTON";
+}
+
+#block1{
+  width: 48%;
+  height: 40%;
+  fill: #fc457e;
+  x: 0;
+  y: 16%;
+  opacity: 0.4;
+}
+
+#block2{
+  width: 48%;
+  height: 40%;
+  fill: #fedb45;
+  x: 52%;
+  y: 16%;
+  opacity: 0.4;
+}
+
+#block3{
+  width: 48%;
+  height: 40%;
+  fill: #30e584;
+  x: 0%;
+  y: 60%;
+  opacity: 0.4;
+}
+
+#block4{
+  width: 48%;
+  height: 40%;
+  fill: #4694ff;
+  x: 52%;
+  y: 60%;
+  opacity: 0.4;
+}
+
+
+.icon {
+  width: 80;
+  height: 80;
+}
+
+.hart {
+  x: 12%;
+  y: 24%;
+}
+
+.ritme {
+  x: 64%;
+  y: 24%;
+}
+
+.vindaed {
+  x: 12%;
+  y: 68%;
+}
+
+.gids {
+  x: 62%;
+  y: 66%;
+}

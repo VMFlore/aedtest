@@ -1,0 +1,28 @@
+{
+  "name": "aedguide",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@fitbit/sdk": "~5.0.1",
+    "@fitbit/sdk-cli": "^1.7.3"
+  },
+  "fitbit": {
+    "appUUID": "0a78a3e6-995a-49c1-8e0e-0dd9a947de4f",
+    "appType": "app",
+    "appDisplayName": "AED Guide - BE",
+    "iconFile": "resources/logo.png",
+    "wipeColor": "#30e584",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {},
+    "defaultLanguage": "en-US"
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  }
+}
